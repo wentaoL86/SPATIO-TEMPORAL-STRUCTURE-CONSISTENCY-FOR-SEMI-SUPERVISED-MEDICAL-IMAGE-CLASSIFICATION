@@ -1,3 +1,3 @@
 # SPATIO-TEMPORAL-STRUCTURE-CONSISTENCY-FOR-SEMI-SUPERVISED-MEDICAL-IMAGE-CLASSIFICATION
 
-The code is coming soon in months
+The code and dataset is coming soon
